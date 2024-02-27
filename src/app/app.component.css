@@ -1,0 +1,8 @@
+.completada {
+  color:green;
+  text-decoration: line-through;
+}
+.seleccionado {
+  background-color: green;
+  color: #FFFFFF;
+}
